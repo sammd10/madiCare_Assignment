@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <div className="container">
+      <div className="container-md container-lg">
       <Navbar />
       <Outlet />
     </div>

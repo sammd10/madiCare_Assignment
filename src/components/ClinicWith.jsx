@@ -4,7 +4,7 @@ function ClinicWith() {
   return (
     <div className='mt-5 row'>
         <div className="col-12 col-md-6 d-flex align-items-center">
-        <div className="mt-5">
+        <div className="mt-5 mb-5 mb-md-0">
         <h1 className="text-blue">Clinic With Innovative</h1>
         <p className='my-4'>
           We provide the most full medical services, so every person could heave
@@ -13,7 +13,7 @@ function ClinicWith() {
         <button className='px-5 py-3 rounded-5 btn btn-primary'>LEARN MORE</button>
         </div>
         </div>
-        <div className="col-12 col-md-6">
+        <div className="col-12 col-md-6 mt-5 mt-md-0">
             <div className="row">
                 <div className="col-12 col-md-6">
                    <div className="col-12 ">

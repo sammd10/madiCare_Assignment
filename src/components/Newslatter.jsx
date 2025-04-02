@@ -3,7 +3,7 @@ import React from "react";
 function Newslatter() {
   return (
     <div>
-      <div className="subscribe-section">
+      <div className="subscribe-section ">
         <h2 className="display-4 fw-bold">Subscribe to Newsletter</h2>
         <p className="fs-4">
           We have a wide experience in experience design and strategy.
