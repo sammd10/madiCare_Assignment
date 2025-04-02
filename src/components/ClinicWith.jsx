@@ -19,7 +19,7 @@ function ClinicWith() {
                    <div className="col-12 ">
                        <div className="cart-2 rounded-4 m-4 position-relative">
                            <div className='position-absolute cart-img'>
-                           <img src="../../public/images/doctor-woman.png"  alt="" className='' />
+                           <img src="/images/doctor-woman.png"  alt="" className='' />
                            </div>
                            <p className='text-center position-absolute bottom-0 w-100 fw-semibold'>Qualified Doctors</p>
                        </div>
@@ -27,7 +27,7 @@ function ClinicWith() {
                     <div className="col-12">
                     <div className="cart-2 ms-3 rounded-4  position-relative" style={{marginTop:'120px'}}>
                            <div className='position-absolute cart-img'>
-                           <img src="../../public/images/doctor-woman copy 2.png"  alt="" className='' />
+                           <img src="/images/doctor-woman copy 2.png"  alt="" className='' />
                            </div>
                            <p className='text-center position-absolute bottom-0 w-100 fw-semibold'>Emergency Care</p>
                        </div>
@@ -36,7 +36,7 @@ function ClinicWith() {
                 <div className="col-12 col-md-6">
                 <div className="cart-2 ms-3 rounded-4  position-relative" style={{marginTop:'120px'}}>
                            <div className='position-absolute cart-img'>
-                           <img src="../../public/images/doctor-woman copy.png"  alt="" className='' />
+                           <img src="/images/doctor-woman copy.png"  alt="" className='' />
                            </div>
                            <p className='text-center position-absolute bottom-0 w-100 fw-semibold'>24 Hours Service</p>
                        </div>
