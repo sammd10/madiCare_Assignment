@@ -2,9 +2,12 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <section className="mt-5 mt-md-0 " style={{ height: "calc(100vh - 96px)" }}>
+    <section
+      className="mt-5 mt-md-0"
+      style={{ height: "calc(100vh - 96px)" ,}}
+    >
       <div className="row h-100">
-        <div className="col-12 col-md-6 d-flex align-items-center justify-content-center mb-5 pb-5">
+        <div className="col-12 col-md-6 d-flex  align-items-center justify-content-center mb-5 pb-5">
           <div className="hero-content">
             <h4 className="text-4xl fw-semibold ">
               Welcome to MediCare+ Clinic
@@ -22,12 +25,12 @@ const Hero = () => {
         </div>
         <div className="col-12 rounded-4 overflow-hidden col-md-6 d-flex align-items-center justify-content-center">
           <div>
-             <img
-            src="https://images.unsplash.com/photo-1742766330337-1127275cd9b3?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            alt="Hospital"
-            className="img-fluid rounded-4 h-100"
-            
-          />
+            <img
+              src="https://images.unsplash.com/photo-1742766330337-1127275cd9b3?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              alt="Hospital"
+              className="img-fluid rounded-4 "
+              width={600}
+            />
           </div>
         </div>
       </div>
