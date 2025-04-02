@@ -28,7 +28,9 @@ p {
   color: rgb(0, 0, 86) !important;
 }
 
-
+.hero-content {
+  padding-bottom: 200px;
+}
 
 .cart {
   margin: 0 40px;
@@ -251,6 +253,6 @@ p {
 
 @media (min-width: 439px) and (max-width: 675px) {
   .ourService {
-    margin-top: 700px;
+    margin-top: 600px;
   }
 }
